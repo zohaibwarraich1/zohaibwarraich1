@@ -1,5 +1,6 @@
+<img align="center" alt="coding" width="1060" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Zohaib Warraich</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A Computer Science Student</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnUycmMyM3c1ZmFqMW51c29tYXhiYnJlNTlreTR4YmloMTRhcTBsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibwarraich1&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibwarraich1" /> </p>
 
