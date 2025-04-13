@@ -25,9 +25,10 @@
 
 <h3 align="center">A Passionate DevOps Engineer | Learning some automation tools</h3>
 
-###
+<p align="left">👨🏼‍💻 Studying Computer Science<br>🚀 Currently learning DevOps<br>📫 How to reach me: <a href="mailto:muhammadzohaibwarraich0@gmail.com">muhammadzohaibwarraich0@gmail.com</a>
+</p>
 
-<p align="left">Languages & Tools</p>
+<h2 align="left">Languages & Tools</h2>
 
 ###
 
