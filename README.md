@@ -49,6 +49,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="13" />
+  <br>
   <img align="right" height="300" src="https://gifdb.com/images/high/chatgpt-pudgy-penguin-typing-computer-programming-vquc8qyjcfo6sn1v.webp"  />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="13" />
