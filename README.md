@@ -45,6 +45,8 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
   <img width="13" />
+  <img src="icons/SonarQube.png" height="50" alt="SonarQube Logo"  />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
