@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/not._.zebii/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="45" alt="instagram logo"  />
   </a>
-  <a href="mailto:muhammadzohaibwarraich0@gmail.com" target="_blank">
+  <a href="mailto:mzohaibw1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="45" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/579659102762958858" target="_blank">
@@ -27,7 +27,7 @@
 
 <h3 align="center">A Passionate DevOps Engineer | Learning some automation tools</h3>
 
-<p align="left">👨🏼‍💻 Studying Computer Science<br>🚀 Currently learning DevOps<br>📫 How to reach me: <a href="mailto:muhammadzohaibwarraich0@gmail.com">muhammadzohaibwarraich0@gmail.com</a>
+<p align="left">👨🏼‍💻 Studying Computer Science<br>🚀 Currently learning DevOps<br>📫 How to reach me: <a href="mailto:mzohaibw1@gmail.com">mzohaibw1@gmail.com</a>
 </p>
 
 <h2 align="left">Languages & Tools</h2>
@@ -55,12 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="13" />
   <img align="right" height="300" src="https://gifdb.com/images/high/chatgpt-pudgy-penguin-typing-computer-programming-vquc8qyjcfo6sn1v.webp"  />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="13" />
 </div>
 
 ###
