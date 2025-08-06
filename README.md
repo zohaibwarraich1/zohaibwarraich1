@@ -24,7 +24,7 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=500&color=FFFFFF&random=false&width=435&lines=Hi!+I+am+Muhammad+Zohaib+Warraich;A+Passionate+DevOps+Engineer!;Learning+some+automation+tools!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=100&color=FFFFFF&random=false&width=435&lines=Hi!+I+am+Muhammad+Zohaib+Warraich;A+Passionate+DevOps+Engineer!;Learning+some+automation+tools!" alt="Typing SVG" />
 </p>
 
 <p align="left">👨🏼‍💻 Studying Computer Science<br>🚀 Currently learning DevOps<br>📫 How to reach me: <a href="mailto:mzohaibw1@gmail.com">mzohaibw1@gmail.com</a>
