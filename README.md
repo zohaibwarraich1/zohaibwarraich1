@@ -14,18 +14,18 @@
   <a href="mailto:mzohaibw1@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="45" alt="gmail logo"  />
   </a>
-  <a href="https://discordapp.com/users/579659102762958858" target="_blank">
+  <a href="https://discord.gg/not.zebi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="45" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">Hi! I am Zohaib</h2>
+# 💫 About Me:
 
-###
-
-<h3 align="center">A Passionate DevOps Engineer | Learning some automation tools</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=500&color=FFFFFF&random=false&width=435&lines=Hi!+I+am+Muhammad+Zohaib+Warraich;A+Passionate+DevOps+Engineer!;Learning+some+automation+tools!" alt="Typing SVG" />
+</p>
 
 <p align="left">👨🏼‍💻 Studying Computer Science<br>🚀 Currently learning DevOps<br>📫 How to reach me: <a href="mailto:mzohaibw1@gmail.com">mzohaibw1@gmail.com</a>
 </p>
@@ -35,9 +35,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="13" />
@@ -49,10 +49,10 @@
   <img width="13" />
   <img src="icons/SonarQube.png" height="50" alt="SonarQube Logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="13" />
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
   <img width="13" />
   <img align="right" height="300" src="https://gifdb.com/images/high/chatgpt-pudgy-penguin-typing-computer-programming-vquc8qyjcfo6sn1v.webp"  />
 </div>
