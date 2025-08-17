@@ -54,7 +54,10 @@
   <br>
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
   <img width="13" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
+  <img width="13" />
   <img align="right" height="300" src="https://gifdb.com/images/high/chatgpt-pudgy-penguin-typing-computer-programming-vquc8qyjcfo6sn1v.webp"  />
+  <img width="13" />
 </div>
 
 ###
