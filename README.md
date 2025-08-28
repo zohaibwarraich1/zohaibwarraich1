@@ -56,6 +56,8 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
   <img width="13" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="jenkins logo"  />
+  <img width="13" />
   <img src="icons/trivy.png" height="47" alt="Trivy Logo"  />
   <img width="13" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-1024.png" height="50" alt="Slack Logo"  />
