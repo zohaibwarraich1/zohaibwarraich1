@@ -49,7 +49,7 @@
   <img width="13" />
   <img src="icons/SonarQube.png" height="50" alt="SonarQube Logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
   <img width="13" />
   <br>
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
@@ -58,7 +58,7 @@
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="jenkins logo"  />
   <img width="13" />
-  <img src="icons/trivy.png" height="47" alt="Trivy Logo"  />
+  <img src="icons/trivy.png" height="50" alt="Trivy Logo"  />
   <img width="13" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-1024.png" height="50" alt="Slack Logo"  />
   <img width="13" />
