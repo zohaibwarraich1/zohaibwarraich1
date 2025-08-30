@@ -35,30 +35,34 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AmazonWebServices logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="Kubernetes logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="Bash logo"  />
   <img width="13" />
   <img src="icons/SonarQube.png" height="50" alt="SonarQube Logo"  />
   <img width="13" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
   <img width="13" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" alt="Jenkins logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="Nginx logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="Terraform logo" margin="" />
   <img width="13" />
   <img src="icons/trivy.png" height="50" alt="Trivy Logo"  />
+  <img width="13" />
+  <img src="icons/argocd.png" height="52" alt="argocd Logo" />
   <img width="13" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-1024.png" height="50" alt="Slack Logo"  />
   <img width="13" />
