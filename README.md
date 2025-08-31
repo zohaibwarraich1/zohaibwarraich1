@@ -66,6 +66,21 @@
   <img width="13" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/306_Slack_logo-1024.png" height="50" alt="Slack Logo"  />
   <img width="13" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL logo"  />
+  <img width="13" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="50" alt="Ansible logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="50" alt="Prometheus logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="Grafana logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="Github logo"  />
+  <img width="13" />
   <img align="right" height="300" src="https://gifdb.com/images/high/chatgpt-pudgy-penguin-typing-computer-programming-vquc8qyjcfo6sn1v.webp"  />
   <img width="13" />
 </div>
