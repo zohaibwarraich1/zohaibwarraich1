@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Muhammad+Zohaib+Warraich;A+Passionate+DevOps+Engineer!;Learning+some+automation+tools!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi!+I+am+Muhammad+Zohaib+Warraich;A+Passionate+DevOps+Engineer!;Learning+some+automation+tools!)](https://git.io/typing-svg)
 
   <a href="https://www.linkedin.com/in/muhammad-zohaib-w/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
