@@ -32,19 +32,14 @@ name: Muhammad Zohaib Warraich
 location: Faisalabad, Pakistan
 education: BS Computer Science @ NTU Faisalabad
 
-current_focus: "Building production-grade multi-tenant platforms on Kubernetes"
-
 expertise:
   - Infrastructure as Code (Terraform)
   - Container Orchestration (Kubernetes, Docker)
   - CI/CD Pipelines (GitHub Actions, Jenkins)
-  - Cloud Architecture (AWS — EKS, VPC, IAM, Secrets Manager)
+  - Cloud Architecture (AWS — EKS, VPC, IAM, Secrets Manager, etc...)
   - GitOps (ArgoCD, Helm)
-  - Monitoring & Observability (Prometheus, Grafana, Loki)
+  - Monitoring & Observability (Prometheus, Grafana)
   - Security Hardening (Non-root, Network Policies, Trivy, SonarQube)
-
-currently_learning: ["Advanced Kubernetes Patterns", "Service Mesh (Istio)"]
-fun_fact: "I automate everything — even my morning coffee ☕"
 ```
 
 ---
