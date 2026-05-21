@@ -4,11 +4,7 @@
 
 <div align="center">
   
-<<<<<<< HEAD
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00A6FF&center=true&vCenter=true&random=false&width=600&lines=DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;Infrastructure+as+Code+Specialist+%E2%9A%99%EF%B8%8F;Kubernetes+%7C+Docker+%7C+CI%2FCD+Expert+%F0%9F%9A%80;Building+Scalable+%26+Secure+Systems+%F0%9F%94%92)](https://git.io/typing-svg)
-=======
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00A6FF&center=true&vCenter=true&random=false&width=435&lines=Hi!+I+am+Muhammad+Zohaib+Warraich;A+Passionate+DevOps+Engineer!;Learning+some+automation+tools!)](https://git.io/typing-svg)
->>>>>>> 7c1aef6 (feat: complete professional profile README overhaul)
 
   <a href="https://www.linkedin.com/in/muhammad-zohaib-w/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -84,38 +80,6 @@ fun_fact: "I automate everything — even my morning coffee ☕"
 
 ---
 
-<<<<<<< HEAD
-## 🏗️ Featured Project
-
-<div align="center">
-
-### Self-Service ERP Deployment Platform
-*A production-grade, multi-tenant ERP deployment platform*
-
-[![GitHub Repo](https://img.shields.io/badge/GitOps_Config-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaibwarraich1/erp-gitops-config)
-[![GitHub Repo](https://img.shields.io/badge/ERP_Application-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohaibwarraich1/erp-dummy-app)
-
-</div>
-
-| Phase | Description | Status |
-|:---:|---|:---:|
-| 🏗️ | **Infrastructure as Code** — AWS EKS, VPC, Terraform, Helm Releases | ✅ |
-| 🔄 | **CI/CD Pipeline** — GitHub Actions, SonarQube, Trivy, Docker Hub | ✅ |
-| 🎯 | **Multi-Tenant GitOps** — ArgoCD App of Apps, Helm Charts, External Secrets | ✅ |
-| 📊 | **Observability** — Prometheus, Grafana Dashboards, Loki Logging, Alerting | ✅ |
-| 🔒 | **Security Hardening** — Network Policies, RBAC, Non-Root, Resource Quotas | ✅ |
-| 💾 | **Backup & Recovery** — Automated CronJob Backups, Restore Documentation | ✅ |
-
-```
-Developer → GitHub Actions CI → Lint → Test → SonarQube → Trivy → Docker Build → Push
-                                                                        ↓
-        Client ← NLB ← Ingress NGINX ← ArgoCD ← Git (values.yaml updated)
-                                            ↓
-                            Tenant Namespace (Isolated: App + DB + HPA + Monitoring)
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -127,19 +91,6 @@ Developer → GitHub Actions CI → Lint → Test → SonarQube → Trivy → Do
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibwarraich1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A6FF&ring=00A6FF&fire=FF6600&currStreakLabel=00A6FF" />
 </div>
 
-=======
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zohaibwarraich1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FF&icon_color=00A6FF&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibwarraich1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A6FF&text_color=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibwarraich1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A6FF&ring=00A6FF&fire=FF6600&currStreakLabel=00A6FF" />
-</div>
-
->>>>>>> 7c1aef6 (feat: complete professional profile README overhaul)
 ---
 
 ## 🏆 GitHub Trophies
