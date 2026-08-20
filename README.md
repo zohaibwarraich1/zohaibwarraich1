@@ -50,7 +50,7 @@ expertise:
 
 ### ☁️ Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,linux,bash,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,linux,bash,nginx,apache" />
 </p>
 
 ### 🔄 CI/CD & DevOps Tools
@@ -68,7 +68,7 @@ expertise:
 
 ### 💻 Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgresql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,laravel,java,javascript,postgresql,mysql,mongodb" />
 </p>
 
 </div>
