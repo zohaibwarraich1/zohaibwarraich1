@@ -77,17 +77,24 @@ expertise:
 
 ## 📜 Certifications
 
-<div align="left">
-  <a href="https://www.credly.com/badges/f0384d32-ee3e-4630-9bb4-c5543a456241/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="85" alt="AWS Certified Cloud Practitioner"/>
-  </a>
-  <a href="https://www.credly.com/badges/b79bd50c-7611-4977-8871-2d1de2aad265/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="85" alt="AWS Certified Solutions Architect – Associate"/>
-  </a>
-</div>
-
-- 🟢 **AWS Certified Solutions Architect – Associate**
-- 🟢 **AWS Certified Cloud Practitioner**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/f0384d32-ee3e-4630-9bb4-c5543a456241/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner"/>
+      </a>
+      <br />
+      <b>AWS Certified Cloud Practitioner - Foundational</b>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/b79bd50c-7611-4977-8871-2d1de2aad265/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Solutions Architect – Associate"/>
+      </a>
+      <br />
+      <b>AWS Certified Solutions Architect – Associate</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
