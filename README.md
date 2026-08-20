@@ -88,14 +88,6 @@ expertise:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zohaibwarraich1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
-</div>
-
----
-
 <div align="center">
 
   <img src="https://github.com/zohaibwarraich1/zohaibwarraich1/raw/output/github-snake-dark.svg" alt="Snake animation" />
