@@ -96,14 +96,6 @@ expertise:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zohaibwarraich1&bg_color=0D1117&color=00A6FF&line=00A6FF&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
   <img src="https://github.com/zohaibwarraich1/zohaibwarraich1/raw/output/github-snake-dark.svg" alt="Snake animation" />
