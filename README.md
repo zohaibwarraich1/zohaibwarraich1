@@ -84,14 +84,14 @@ expertise:
         <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110" alt="AWS Certified Cloud Practitioner - Foundational"/>
       </a>
       <br />
-      <b>AWS Certified Cloud Practitioner - Foundational</b>
+      <b>AWS Certified Solutions Architect – Associate</b>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/b79bd50c-7611-4977-8871-2d1de2aad265/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Solutions Architect – Associate"/>
       </a>
       <br />
-      <b>AWS Certified Solutions Architect – Associate</b>
+      <b>AWS Certified Cloud Practitioner - Foundational</b>
     </td>
   </tr>
 </table>
